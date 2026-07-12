@@ -55,3 +55,17 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ## How the tree works
 Home → Cluster → Topic → Sub-branch
+
+## Github commands to use while pushing -
+git init
+git add .
+git commit -m "Initial vault backup"
+git branch -M main
+git remote add origin https://github.com/aswego123/deep-dive-journal.git
+git push -u origin main
+
+### Going Forward -
+
+git add .
+git commit -m "Daily update"
+git push
