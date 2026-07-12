@@ -2,18 +2,20 @@
 date: 2026-07-11
 topic: Neuroplasticity
 season: Mind & Behavior
-tags: [deep-dive, neuroscience]
+tags:
+  - deep-dive
+  - neuroscience
 status: seedling
 ---
-
+![[Pasted image 20260712185943.png]]
 # Neuroplasticity
 
 Neuro = Nervous System (Brain)
 Plasticity = Moldable
-
 Our brain is capable of learning and growing at any age
-## Sub-branches
 
+Neuroplasticity, i.e., the brain’s capacity to adapt and form new neural connections in response to experiences and environmental stimuli
+## Sub-branches
 
 ## 🪝 The Hook
 
@@ -22,6 +24,15 @@ Our brain is capable of learning and growing at any age
 ## ⚙️ Core Mechanism
 
 > Neurons that fire together wire together. Repeated activity strengthens synaptic connections; unused ones get pruned. This happens through structural changes (new dendritic spines, myelination) not just chemical ones.
+> 
+> Physical Activity improve neurogenesis by improving synaptic connectivity- Aerobic exercise, Resistance training, Mind–body exercises reduce stress and improve emotional regulation.
+
+
+**Aerobic exercise was found to increase hippocampal volume by 1–2% and improve executive function scores by 5–10% in older adults.** 
+
+**Resistance training enhanced cognitive control and memory performance by 12–18% in elderly individuals.** 
+
+**Mind–body exercises, such as yoga and tai-chi, improved gray matter density in memory-related brain regions by 3–5% and enhanced emotional regulation scores by 15–20%.** 
 
 ## 💡 So What
 
@@ -33,8 +44,12 @@ Our brain is capable of learning and growing at any age
 
 ## 📚 Source
 
-> Lara Boyd, TED x Vancouver  "After watching this, your brain will not be the same"
-> Norman Doidge, "The Brain That Changes Itself"
+> 1. [[Lara Boyd, TED x Vancouver- After watching this, your brain will not be the same]]
+> 2. [[Frontiers in Neuroscience - Physical activity and neuroplasticity in neurodegenerative disorders]]
 
 ---
 *Status key: 🌱 seedling → 🌿 growing → 🌳 evergreen*
+
+![[Pasted image 20260712185158.png]]
+
+![[Pasted image 20260712185638.png]]
