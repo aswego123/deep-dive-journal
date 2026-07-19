@@ -7,7 +7,7 @@ tags:
   - neuroscience
 status: seedling
 ---
-![[Pasted image 20260712185943.png]]
+![[Pasted image 20260713223301.png]]
 # Neuroplasticity
 
 Neuro = Nervous System (Brain)
@@ -41,6 +41,7 @@ Neuroplasticity, i.e., the brain’s capacity to adapt and form new neural conne
 ## ❓ Open Question
 
 > How much plasticity is actually lost with age vs. how much is just reduced *opportunity* for novel, effortful practice?
+> [[Brain Development and Learning]]
 
 ## 📚 Source
 

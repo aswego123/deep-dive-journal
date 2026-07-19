@@ -48,8 +48,8 @@ renderHeatmapCalendar(this.container, calendarData)
 - [[Frontier Science]] 
 
 ## Quick Links
-- [[Templates/Topic Entry Template]]
-- [[Templates/Weekly Review Template]]
+- Templates/Topic Entry Template
+- Templates/Weekly Review Template
 - 📁 All entries live under their Cluster note in `Clusters/`
 - 📁 All weekly syntheses live in `Weekly Reviews/`
 
