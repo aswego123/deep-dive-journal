@@ -38,7 +38,7 @@ renderHeatmapCalendar(this.container, calendarData)
 
 **Season:** _e.g. Mind & Behavior_
 **Dates:** _____ to _____
-**Active topic:** [[Neuroplasticity]]
+**Active topic:** [[AI Inferencing]]
 
 ## Clusters (this vault's top-level tree)
 - [[Mind & Behavior]]
@@ -46,6 +46,7 @@ renderHeatmapCalendar(this.container, calendarData)
 - [[Decision & Power]]
 - [[Philosophy of Mind & Self]]
 - [[Frontier Science]] 
+- [[AI and Compute]]
 
 ## Quick Links
 - Templates/Topic Entry Template
