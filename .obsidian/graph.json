@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Clusters\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "path:\"Topics/AI Inferencing\"",
+      "color": {
+        "a": 1,
+        "rgb": 4886745
+      }
+    },
+    {
+      "query": "path:\"Topics/NVIDIA Stack\"",
+      "color": {
+        "a": 1,
+        "rgb": 7780608
+      }
+    },
+    {
+      "query": "path:\"Topics/Jev AI\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:\"Topics/Neuroplasticity\"",
+      "color": {
+        "a": 1,
+        "rgb": 15158332
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 8947848
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1903055137073397,
+  "centerStrength": 0.3,
+  "repelStrength": 18,
+  "linkStrength": 0.6,
+  "linkDistance": 280,
+  "scale": 0.2351220767816961,
   "close": true
 }

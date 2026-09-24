@@ -38,7 +38,7 @@ renderHeatmapCalendar(this.container, calendarData)
 
 **Season:** _e.g. Mind & Behavior_
 **Dates:** _____ to _____
-**Active topic:** [[AI Inferencing]]
+**Active topic:** [[NVIDIA Stack]]
 
 ## Clusters (this vault's top-level tree)
 - [[Mind & Behavior]]
